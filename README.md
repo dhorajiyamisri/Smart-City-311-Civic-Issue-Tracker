@@ -189,6 +189,13 @@ Using **Exploratory Data Analysis (EDA)**, the project uncovers trends, identifi
                         ▼
        🏙️ Smart City Decisions
 ```
+# 🗺️ Complaint Coverage
+
+<p align="center">
+<img src="images/nyc_map.jpg" width="100%">
+</p>
+
+📍 Complaint Hotspots across NYC Boroughs
 
 ---
 
