@@ -120,52 +120,66 @@ Using **Exploratory Data Analysis (EDA)**, the project uncovers trends, identifi
 
 ## 🔹 Complaint Analysis
 
-| Top 10 Complaint Types | Top 5 Complaint Types |
-|:-----------------------:|:---------------------:|
-| <img src="images/top_10_complaint_types.png" width="100%"> | <img src="images/top_5_complaint_types.png" width="100%"> |
+<h1 align="center">📊 Smart City Analytics Dashboard</h1>
 
----
+<table>
+<tr>
+<td width="50%">
+<img src="images/top_10_complaint_types.png">
+</td>
 
-## 🔹 Complaint Distribution
+<td width="50%">
+<img src="images/complaints_by_agency.png">
+</td>
+</tr>
 
-| Complaints by Agency | Complaint Status |
-|:--------------------:|:----------------:|
-| <img src="images/complaints_by_agency.png" width="100%"> | <img src="images/complaint_status_distribution.png" width="100%"> |
+<tr>
+<td>
+<img src="images/complaint_status_distribution.png">
+</td>
 
----
+<td>
+<img src="images/top_10_cities.png">
+</td>
+</tr>
 
-## 🔹 Resolution Analysis
+<tr>
+<td>
+<img src="images/hourly_complaint_trend.png">
+</td>
 
-| Resolution Days by Complaint Type | Resolution Days by Borough |
-|:--------------------------------:|:--------------------------:|
-| <img src="images/avg_resolution_days_by_complaint_type.png" width="100%"> | <img src="images/avg_resolution_days_by_borough.png" width="100%"> |
+<td>
+<img src="images/complaints_by_day.png">
+</td>
+</tr>
 
----
+<tr>
+<td>
+<img src="images/top_location_types.png">
+</td>
 
-## 🔹 Time Analysis
+<td>
+<img src="images/address_type_distribution.png">
+</td>
+</tr>
 
-| Hourly Complaint Trend | Complaints by Day |
-|:----------------------:|:-----------------:|
-| <img src="images/hourly_complaint_trend.png" width="100%"> | <img src="images/complaints_by_day.png" width="100%"> |
+<tr>
+<td>
+<img src="images/complaint_status_by_type.png">
+</td>
 
----
+<td>
+<img src="images/avg_resolution_days_by_complaint_type.png">
+</td>
+</tr>
 
-## 🔹 Geographic Analysis
+<tr>
+<td colspan="2" align="center">
+<img src="images/avg_resolution_days_by_borough.png" width="70%">
+</td>
+</tr>
 
-| Top 10 Cities | Top Location Types |
-|:-------------:|:------------------:|
-| <img src="images/top_10_cities.png" width="100%"> | <img src="images/top_location_types.png" width="100%"> |
-
----
-
-## 🔹 Additional Analysis
-
-| Address Type Distribution | Complaint Status by Type |
-|:-------------------------:|:------------------------:|
-| <img src="images/address_type_distribution.png" width="100%"> | <img src="images/complaint_status_by_type.png" width="100%"> |
-
----
-
+</table>
 # 🔄 Project Workflow
 
 ```text
