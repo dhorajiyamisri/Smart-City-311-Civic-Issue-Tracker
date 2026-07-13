@@ -120,66 +120,108 @@ Using **Exploratory Data Analysis (EDA)**, the project uncovers trends, identifi
 
 ## 🔹 Complaint Analysis
 
-<h1 align="center">📊 Smart City Analytics Dashboard</h1>
+# 📊 Analytics Dashboard
 
-<table>
-<tr>
-<td width="50%">
-<img src="images/top_10_complaint_types.png">
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Records-20,000-00E5FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Features-26-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Visualizations-12-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=for-the-badge">
+</p>
 
-<td width="50%">
-<img src="images/complaints_by_agency.png">
-</td>
-</tr>
+---
 
-<tr>
-<td>
-<img src="images/complaint_status_distribution.png">
-</td>
+# 📸 Visual Insights Gallery
 
-<td>
-<img src="images/top_10_cities.png">
-</td>
-</tr>
+## 🔹 Complaint Analysis
 
-<tr>
-<td>
-<img src="images/hourly_complaint_trend.png">
-</td>
+| Top 10 Complaint Types | Top 5 Complaint Types |
+|:-----------------------:|:---------------------:|
+| <img src="images/top_10_complaint_types.png" width="100%"> | <img src="images/top_5_complaint_types.png" width="100%"> |
 
-<td>
-<img src="images/complaints_by_day.png">
-</td>
-</tr>
+---
 
-<tr>
-<td>
-<img src="images/top_location_types.png">
-</td>
+## 🔹 Complaint Distribution
 
-<td>
-<img src="images/address_type_distribution.png">
-</td>
-</tr>
+| Complaints by Agency | Complaint Status |
+|:--------------------:|:----------------:|
+| <img src="images/complaints_by_agency.png" width="100%"> | <img src="images/complaint_status_distribution.png" width="100%"> |
 
-<tr>
-<td>
-<img src="images/complaint_status_by_type.png">
-</td>
+---
 
-<td>
-<img src="images/avg_resolution_days_by_complaint_type.png">
-</td>
-</tr>
+## 🔹 Resolution Analysis
 
-<tr>
-<td colspan="2" align="center">
-<img src="images/avg_resolution_days_by_borough.png" width="70%">
-</td>
-</tr>
+| Resolution Days by Complaint Type | Resolution Days by Borough |
+|:--------------------------------:|:--------------------------:|
+| <img src="images/avg_resolution_days_by_complaint_type.png" width="100%"> | <img src="images/avg_resolution_days_by_borough.png" width="100%"> |
 
-</table>
+---
+
+## 🔹 Time Analysis
+
+| Hourly Complaint Trend | Complaints by Day |
+|:----------------------:|:-----------------:|
+| <img src="images/hourly_complaint_trend.png" width="100%"> | <img src="images/complaints_by_day.png" width="100%"> |
+
+---
+
+## 🔹 Geographic Analysis
+
+| Top 10 Cities | Top Location Types |
+|:-------------:|:------------------:|
+| <img src="images/top_10_cities.png" width="100%"> | <img src="images/top_location_types.png" width="100%"> |
+
+---
+
+## 🔹 Additional Analysis
+
+| Address Type Distribution | Complaint Status by Type |
+|:-------------------------:|:------------------------:|
+| <img src="images/address_type_distribution.png" width="100%"> | <img src="images/complaint_status_by_type.png" width="100%"> |
+
+---
+
+# 🔄 Project Workflow
+
+```text
+                 📥 NYC 311 Dataset
+                        │
+                        ▼
+              🧹 Data Cleaning
+                        │
+                        ▼
+          ⚙️ Feature Engineering
+                        │
+                        ▼
+        📊 Univariate Analysis
+                        │
+                        ▼
+        🔄 Bivariate Analysis
+                        │
+                        ▼
+        💡 Business Insights
+                        │
+                        ▼
+       🏙️ Smart City Decisions
+```
+
+---
+
+# 📌 Project Highlights
+
+✅ Cleaned and processed **20,000** NYC 311 service requests.
+
+✅ Performed complete **Exploratory Data Analysis (EDA)**.
+
+✅ Created **12+ professional visualizations** using Matplotlib and Seaborn.
+
+✅ Identified complaint trends by complaint type, agency, city, borough, and time.
+
+✅ Analyzed complaint resolution performance across different categories.
+
+✅ Generated actionable business insights to support **Smart City** decision-making.
+
+---
 # 🔄 Project Workflow
 
 ```text
